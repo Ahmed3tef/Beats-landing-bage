@@ -4,6 +4,8 @@
 - this app is a tutorial from (Bedimcode) youtube channel. 
 - this app is fully responsive
 
-- you can check it here => 
+- you can check it from this link => https://ahmed3tef.github.io/Beats-landing-bage/
+
+
 
 ![preview img](/preview.png)
