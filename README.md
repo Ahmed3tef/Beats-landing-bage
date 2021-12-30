@@ -1,4 +1,4 @@
-# Beats-landing-bage 🎧
+# Beats-landing-page 🎧
 - Beats page with *HTML, CSS* and *JS*.
 - used scrollreveal.js libraray to make scrolls.
 - this app is a tutorial from (Bedimcode) youtube channel. 
